@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Gustavo Henrique 👋
 
-<!--
-**guhenrique200-design/guhenrique200-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e apaixonado por tecnologia. Estou aprendendo desenvolvimento web e praticando com projetos como esta calculadora.
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo
+- HTML, CSS, JavaScript
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- [Calculadora Projeto 1](https://github.com/guhenrique200-design/calculadora-projeto-1)
+
+---
+
+Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/gustavo-henrique-lima-rocha-71726b383/)
+Atualiza README pessoal
